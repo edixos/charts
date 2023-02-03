@@ -1,0 +1,33 @@
+apiVersion: v1
+entries:
+  nauticus:
+  - apiVersion: v2
+    appVersion: v0.0.1-alpha1
+    created: "2023-02-03T15:58:38.933607295Z"
+    description: A Helm chart to deploy the Nauticus Controller Simplifying Kubernetes
+      cluster management with fully-managed Spaces
+    digest: e31378244cebdc52edd9235d6e6b9b54ca0fe2eb114ac809160cbc1cc79680fa
+    home: https://github.com/edixos/nauticus
+    icon: https://github.com/edixos/Nauticus/blob/main/docs/assets/images/logos/nauticus-b.png
+    keywords:
+    - kubernetes
+    - operator
+    - controller
+    - multi-tenancy
+    - multi-tenant
+    - multitenancy
+    - multitenant
+    - namespace
+    - space
+    maintainers:
+    - email: ikaboubi@gmail.com
+      name: Ismail KABOUBI
+      url: https://smileisak.com
+    name: nauticus
+    sources:
+    - https://github.com/edixos/nauticus
+    type: application
+    urls:
+    - https://edixos.github.io/charts/nauticus-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-03T15:58:38.932380168Z"
