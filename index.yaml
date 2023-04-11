@@ -3,10 +3,10 @@ entries:
   nauticus:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2023-02-03T16:25:22.138758199Z"
+    created: "2023-04-11T18:03:08.588369018Z"
     description: A Helm chart to deploy the Nauticus Controller Simplifying Kubernetes
       cluster management with fully-managed Spaces
-    digest: da6d0d318a7f57c193456ed7a83bd1f8ceac317226f825bd74cf57af849e2770
+    digest: f0027ac127aeb7eb4260a2ead81099cd28a84cb564624a5e76d637947c9b5075
     home: https://github.com/edixos/nauticus
     icon: https://github.com/edixos/Nauticus/blob/main/docs/assets/images/logos/nauticus-b.png
     keywords:
@@ -30,4 +30,4 @@ entries:
     urls:
     - https://edixos.github.io/charts/nauticus-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-03T16:25:22.137778293Z"
+generated: "2023-04-11T18:03:08.584005365Z"
